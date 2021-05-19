@@ -1,5 +1,11 @@
 # @graphql-codegen/visitor-plugin-common
 
+## 1.21.0
+
+### Minor Changes
+
+- 8da7dff6: Skip typechecking on generated values by casting to unknown
+
 ## 1.20.0
 
 ### Minor Changes

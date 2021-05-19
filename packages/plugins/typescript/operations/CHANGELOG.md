@@ -1,5 +1,16 @@
 # @graphql-codegen/typescript-operations
 
+## 1.18.0
+
+### Minor Changes
+
+- 0a909869: Add arrayInputCoercion option
+
+### Patch Changes
+
+- Updated dependencies [8da7dff6]
+  - @graphql-codegen/visitor-plugin-common@1.21.0
+
 ## 1.17.16
 
 ### Patch Changes
